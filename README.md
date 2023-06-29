@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Moritz
-- 👀 I’m interested in Coding (what a surprise)
-- 🌱 I’m currently learning JS, Java
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning C#
 - 📫 Discord: mxritz_
 
 <!---
