@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @moritzsimple
+- 👋 Hi, I’m Moritz
 - 👀 I’m interested in Coding (what a surprise)
 - 🌱 I’m currently learning JS, Java
-- 💞️ I’m collaborating with Daskju
 - 📫 Discord: mxritz_
 
 <!---
