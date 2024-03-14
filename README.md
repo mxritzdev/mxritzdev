@@ -51,11 +51,3 @@
 <img align="left" src="https://profile-counter.glitch.me/Moritz-Deiaco/count.svg?"  />
 
 ###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/k5umm3nc02y20wv1jon78jgui">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=k5umm3nc02y20wv1jon78jgui&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
