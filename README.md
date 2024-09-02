@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **Webdevelopement, C#**
 
-- 📫 How to reach me **Discord: mxritzdev**
+- 📫 Discord: mxritzdev
 
-- ⚡ Fun fact **I think I just lost my head.**
+- ⚡ Fun fact: **I think I just lost my head.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
