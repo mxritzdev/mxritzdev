@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Webdevelopement, C#**
 
-- 📫 Discord: mxritzdev
+- 📫 Discord: moritzdev
 
 - ⚡ Fun fact: **I think I just lost my head.**
 
