@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moritz</h1>
-<h3 align="center">Almost a fullstack dev from Italy</h3>
+<h3 align="center">A fullstack dev from Italy</h3>
 
 - 🔭 I’m currently working on [Moonlight Panel](https://github.com/Moonlight-Panel/Moonlight)
 
