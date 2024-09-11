@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Blazor, Tailwind**
 
-- 👨‍💻 All of my projects are available at [https://mxritz.xyz](https://mxritz.xyz)
+- 👨‍💻 All of my projects are available at [https://mxritz.dev](https://mxritz.dev)
 
 - 💬 Ask me about **Webdevelopement, C#**
 
