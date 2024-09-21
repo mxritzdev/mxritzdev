@@ -11,7 +11,6 @@
 
 - 📫 Discord: moritzdev
 
-- ⚡ Fun fact: **I think I just lost my head.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
