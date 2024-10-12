@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Webdevelopement, C#**
 
-- 📫 Discord: moritzdev
+- 📫 Discord: **@mxritzdev**
 
 
 <h3 align="left">Connect with me:</h3>
